@@ -52,4 +52,22 @@ The objective is to identify patterns in booking behavior, optimize revenue stra
 
 ---
 
-## 📂 Project Structure
+---
+
+## 💡 Key Insights
+- Higher lead time increases cancellation probability
+- Resort hotels show seasonal demand peaks
+- ADR varies significantly by market segment
+- Online travel agents contribute higher booking volume
+
+---
+
+## 🚀 Conclusion
+This project demonstrates end-to-end business intelligence workflow including data preprocessing, relational modeling, KPI creation, and interactive dashboard development.
+
+---
+
+## 👤 Author
+**Elangovan**
+
+
