@@ -66,6 +66,22 @@ The objective is to identify patterns in booking behavior, optimize revenue stra
 This project demonstrates end-to-end business intelligence workflow including data preprocessing, relational modeling, KPI creation, and interactive dashboard development.
 
 ---
+## 📊 Dashboard Preview
+
+### Overview Dashboard
+![Overview](assets/dashboard-overview.png)
+
+### Cancellation Analysis
+![Cancellation](assets/cancellation-analysis.png)
+
+### Revenue & ADR Analysis
+![Revenue](assets/revenue-analysis.png)
+
+### Resort vs City Comparison
+![Comparison](assets/hotel-comparison.png)
+
+### Seasonality Analysis
+![Season](assets/season-analysis.png)
 
 ## 👤 Author
 **Elangovan**
